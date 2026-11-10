@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Spaakwerk wheel icon">
+  <rect width="200" height="200" rx="36" fill="#1F3D36"/>
+  <g transform="translate(100 100)">
+    <circle r="62" fill="none" stroke="#F6F1E7" stroke-width="10"/>
+    <circle r="9" fill="#F26B21"/>
+    <g stroke="#F26B21" stroke-width="4" stroke-linecap="round">
+      <line x1="0" y1="-9" x2="0" y2="-54"/>
+      <line x1="0" y1="9" x2="0" y2="54"/>
+      <line x1="-9" y1="0" x2="-54" y2="0"/>
+      <line x1="9" y1="0" x2="54" y2="0"/>
+      <line x1="6.4" y1="-6.4" x2="38.2" y2="-38.2"/>
+      <line x1="-6.4" y1="6.4" x2="-38.2" y2="38.2"/>
+      <line x1="6.4" y1="6.4" x2="38.2" y2="38.2"/>
+      <line x1="-6.4" y1="-6.4" x2="-38.2" y2="-38.2"/>
+    </g>
+  </g>
+</svg>
